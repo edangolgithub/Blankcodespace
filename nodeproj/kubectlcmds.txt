@@ -1,0 +1,1 @@
+kubectl port-forward --address 0.0.0.0 services/enode-service 8081:3000
